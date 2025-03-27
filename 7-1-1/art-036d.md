@@ -1,0 +1,9 @@
+# Art. 36d Bauzone mit speziellen Vorschriften Spinnerei an der Lorze
+1 Die Bauzone mit speziellen Vorschriften Spinnerei an der Lorze bezweckt, eine auf das historisch bedeutende Industrieensemble abgestimmte bauliche Entwicklung von hoher architektonischer und freiräumlicher Qualität zu ermöglichen.
+2 Die Zone ist für das Wohnen sowie für nicht störende und mässig störende Gewerbe- und Dienstleistungsbetriebe bestimmt. Der Wohnanteil und der Gewerbeanteil betragen jeweils mindestens 40%. Hotel- und Longstay-Nutzungen werden der gewerblichen Nutzung angerechnet.
+3 Es darf nur im Rahmen eines ordentlichen Bebauungsplans gebaut werden. Der Bebauungsplan hat zum Ziel:
+a) das Spinnereiareal unter Wahrung der historisch gewachsenen industriellen Identität aufzuwerten, baulich weiterzuentwickeln und wichtige bauliche Zeitzeugen zu schützen
+b) dank vielfältigen Nutzungen einen attraktiven und belebten Ortsteil zu schaffen und preisgünstigen Wohnraum zu realisieren
+c) das Areal freiräumlich aufzuwerten und aufenthaltsfreundliche Erholungs- und Aussenräume mit Bezug zur Spinnerei, zur Langgasse, zum Altgutsch und zur Lorze zu schaffen und öffentlich zugängliche Plätze zu sichern
+d) eine flächen- und ressourceneffiziente Verkehrserschliessung zu regeln
+4 In der Bauzone mit speziellen Vorschriften Spinnerei an der Lorze ist eine anrechenbare Geschossfläche (aGF) von maximal 67'000 m² erlaubt. Diese aGF darf im Rahmen des ordentlichen Bebauungsplans erhöht werden. Im ordentlichen Bebauungsplan sind in Abstimmung mit der Höhenentwicklung der Spinnerei und der angrenzenden Nachbarschaft Fassadenhöhen / Gesamthöhen bis auf eine Höhenkote von maximal 480.0 m ü.M. zulässig. Im ordentlich en Bebauungsplan wird die Fläche für den preisgünstigen Wohnungsbau gestützt auf § 18 Abs. 4 PBG festgelegt.
