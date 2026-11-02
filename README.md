@@ -8,7 +8,7 @@ The text is in German, exactly as the municipality publishes it.
 
 ## What this repository holds
 
-31 acts with 38 versions so far: the Gemeindeordnung (the municipality's charter) first, then the municipality's other enactments in force (ordinances, regulations, tariffs and decisions), in the order of the systematic collection, added in parts of about 50. Agreements, concessions, directives and repealed acts are not included.
+40 acts with 50 versions so far: the Gemeindeordnung (the municipality's charter) first, then the municipality's other enactments in force (ordinances, regulations, tariffs and decisions), in the order of the systematic collection, added in parts of about 50. Agreements, concessions, directives and repealed acts are not included.
 
 | Folder | Act | Versions | History |
 | --- | --- | ---: | --- |
@@ -43,6 +43,15 @@ The text is in German, exactly as the municipality publishes it.
 | `6-6-2/` | Verordnung über die Gebühren bei der Miete von Liegenschaften der Gemeinde (SRS 6.6-2) | 1 | as enacted, 19 December 2025 |
 | `7-1-1/` | Bauordnung (SRS 7.1-1) | 1 | one version (the oldest available), 27 March 2025 |
 | `7-1-2/` | Gebührenordnung im Bauwesen (SRS 7.1-2) | 1 | as enacted, 9 December 2021 |
+| `7-4-3-1/` | Abwasserreglement (SRS 7.4.3-1) | 1 | as enacted, 1 January 2003 |
+| `7-6-1/` | Strassenreglement (SRS 7.6-1) | 1 | one version (the oldest available), 28 February 2008 |
+| `7-6-2/` | Reklamereglement (SRS 7.6-2) | 1 | as enacted, 1 January 2022 |
+| `7-7-1/` | Verordnung über den gesteigerten Gemeingebrauch von Parkanlagen und Plätzen (SRS 7.7-1) | 1 | as enacted, 1 December 2025 |
+| `8-2-1/` | Bestattungs- und Friedhofreglement (SRS 8.2-1) | 1 | as enacted, 19 October 2000 |
+| `8-2-1-1/` | Verordnung zum Bestattungs- und Friedhofsreglement (SRS 8.2-1.1) | 2 | as enacted, then each consolidated version: 1 August 2023 to 8 July 2026 |
+| `8-3-1-hundereglement/` | Reglement über das Halten von Hunden und die Erhebung der Hundesteuer (SRS 8.3-1) | 1 | as enacted, 12 August 1980 |
+| `9-4-1/` | Verordnung über die Beherbergungsabgabe (SRS 9.4-1) | 2 | as enacted, then each consolidated version: 1 January 2015 to 1 January 2027 |
+| `9-5-1/` | Verordnung über die Freinächte und den Musikbetrieb (SRS 9.5-1) | 2 | as enacted, then each consolidated version: 24 July 1996 to 1 September 2026 |
 
 ## Source
 

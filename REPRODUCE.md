@@ -45,20 +45,29 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `6-6-2` | Verordnung über die Gebühren bei der Miete von Liegenschaften der Gemeinde | 1 | 2025-12-19 to 2025-12-19 |
 | `7-1-1` | Bauordnung | 1 | 2025-03-27 to 2025-03-27 |
 | `7-1-2` | Gebührenordnung im Bauwesen | 1 | 2021-12-09 to 2021-12-09 |
+| `7-4-3-1` | Abwasserreglement | 1 | 2003-01-01 to 2003-01-01 |
+| `7-6-1` | Strassenreglement | 1 | 2008-02-28 to 2008-02-28 |
+| `7-6-2` | Reklamereglement | 1 | 2022-01-01 to 2022-01-01 |
+| `7-7-1` | Verordnung über den gesteigerten Gemeingebrauch von Parkanlagen und Plätzen | 1 | 2025-12-01 to 2025-12-01 |
+| `8-2-1` | Bestattungs- und Friedhofreglement | 1 | 2000-10-19 to 2000-10-19 |
+| `8-2-1-1` | Verordnung zum Bestattungs- und Friedhofsreglement | 2 | 2023-08-01 to 2026-07-08 |
+| `8-3-1-hundereglement` | Reglement über das Halten von Hunden und die Erhebung der Hundesteuer | 1 | 1980-08-12 to 1980-08-12 |
+| `9-4-1` | Verordnung über die Beherbergungsabgabe | 2 | 2015-01-01 to 2027-01-01 |
+| `9-5-1` | Verordnung über die Freinächte und den Musikbetrieb | 2 | 1996-07-24 to 2026-09-01 |
 
-The build made 38 commits:
+The build made 50 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 31 | first version of an act |
-| 7 | one law on its in-force day |
+| 40 | first version of an act |
+| 10 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
-- 0 commits on the branch `zukunft`: laws not yet in force on 2026-11-02.
+- 1 commits on the branch `zukunft`: laws not yet in force on 2026-11-02.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 38 laws in the record.
-- 71 tags.
+- 50 laws in the record.
+- 93 tags.
 
 ## Dates
 
@@ -70,13 +79,13 @@ When a law gives no date of its own, the default rule applies: Each version is d
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `99bfb19046f7785fa0b5e87f80339862e09f89fffd374250344bb326328a0c29` (449775 bytes).
+- Corpus: sha256 `40a06710adbf6a7316de72405473f89d4a0a4a716b5475b95da6cb1c2bdba3aa` (551490 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `a4faa25af85facb64b956b372f6b528aafdd7ec1`, `check.py` `3d00541d258745461ab52b1b0cb4e1716a27a95d`, `on.py` `644a6c0857fbcc72562032b58d57aa113fee0641`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
 ## Checks
 
-38 versions of 31 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
+50 versions of 40 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
 
 No second build of this corpus has been compared yet.
 

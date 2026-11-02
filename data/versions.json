@@ -476,6 +476,150 @@
      "sha256": "a177771fd6de28f7abdc2bc9e7e03c40c55238640a9bda79b0edfca1e62880c2"
     }
    ]
+  },
+  {
+   "slug": "7-4-3-1",
+   "short": "SRS 7.4.3-1",
+   "title": "Abwasserreglement",
+   "url": "https://baar.tlex.ch/app/de/texts_of_law/7.4.3-1",
+   "versions": [
+    {
+     "from": "2003-01-01",
+     "units": 26,
+     "source_url": "https://baar.tlex.ch/api/de/texts_of_law/7.4.3-1",
+     "sha256": "0039bae81821e8fe41ce683afb4aaadbcbe140b201507ff51ac6dce9cb8333d3"
+    }
+   ]
+  },
+  {
+   "slug": "7-6-1",
+   "short": "SRS 7.6-1",
+   "title": "Strassenreglement",
+   "url": "https://baar.tlex.ch/app/de/texts_of_law/7.6-1",
+   "versions": [
+    {
+     "from": "2008-02-28",
+     "units": 37,
+     "source_url": "https://baar.tlex.ch/api/de/texts_of_law/7.6-1",
+     "sha256": "8c4f4f27d15477619cc67d75095f6122618d5d3f2fc2a5d37bd2be8fba02ba74"
+    }
+   ]
+  },
+  {
+   "slug": "7-6-2",
+   "short": "SRS 7.6-2",
+   "title": "Reklamereglement",
+   "url": "https://baar.tlex.ch/app/de/texts_of_law/7.6-2",
+   "versions": [
+    {
+     "from": "2022-01-01",
+     "units": 13,
+     "source_url": "https://baar.tlex.ch/api/de/texts_of_law/7.6-2",
+     "sha256": "d9585b0cfb2f6b95fd31cabbdd338c169023e952f909115804748d33a8f1856c"
+    }
+   ]
+  },
+  {
+   "slug": "7-7-1",
+   "short": "SRS 7.7-1",
+   "title": "Verordnung über den gesteigerten Gemeingebrauch von Parkanlagen und Plätzen",
+   "url": "https://baar.tlex.ch/app/de/texts_of_law/7.7-1",
+   "versions": [
+    {
+     "from": "2025-12-01",
+     "units": 8,
+     "source_url": "https://baar.tlex.ch/api/de/texts_of_law/7.7-1",
+     "sha256": "11c6303ebac02d310e16d767d5c2881f625d107a7a6278892bf69e77d476485f"
+    }
+   ]
+  },
+  {
+   "slug": "8-2-1",
+   "short": "SRS 8.2-1",
+   "title": "Bestattungs- und Friedhofreglement",
+   "url": "https://baar.tlex.ch/app/de/texts_of_law/8.2-1",
+   "versions": [
+    {
+     "from": "2000-10-19",
+     "units": 27,
+     "source_url": "https://baar.tlex.ch/api/de/texts_of_law/8.2-1",
+     "sha256": "1cf312a53c72edc7eebf60cf2c759fa86fdb78d06eb0394b34faa0aa5eed29d4"
+    }
+   ]
+  },
+  {
+   "slug": "8-2-1-1",
+   "short": "SRS 8.2-1.1",
+   "title": "Verordnung zum Bestattungs- und Friedhofsreglement",
+   "url": "https://baar.tlex.ch/app/de/texts_of_law/8.2-1.1",
+   "versions": [
+    {
+     "from": "2023-08-01",
+     "units": 7,
+     "source_url": "https://baar.tlex.ch/api/de/texts_of_law/8.2-1.1/versions/314",
+     "sha256": "5076fa6b11f4bda8a6aa8607ffdf14a70013aaf9a7717fa4695d0b61ba880775"
+    },
+    {
+     "from": "2026-07-08",
+     "units": 19,
+     "source_url": "https://baar.tlex.ch/api/de/texts_of_law/8.2-1.1",
+     "sha256": "05718a8634b5890d9d4ef1833b816b8f95ec6b1a87cccdea475368545a86f2ce"
+    }
+   ]
+  },
+  {
+   "slug": "8-3-1-hundereglement",
+   "short": "Hundereglement",
+   "title": "Reglement über das Halten von Hunden und die Erhebung der Hundesteuer",
+   "url": "https://baar.tlex.ch/app/de/texts_of_law/8.3-1",
+   "versions": [
+    {
+     "from": "1980-08-12",
+     "units": 26,
+     "source_url": "https://baar.tlex.ch/api/de/texts_of_law/8.3-1",
+     "sha256": "43b20a6db4f20841111e89919a1cc095df28c49cb00c8fd028a4d0c2615755c3"
+    }
+   ]
+  },
+  {
+   "slug": "9-4-1",
+   "short": "SRS 9.4-1",
+   "title": "Verordnung über die Beherbergungsabgabe",
+   "url": "https://baar.tlex.ch/app/de/texts_of_law/9.4-1",
+   "versions": [
+    {
+     "from": "2015-01-01",
+     "units": 10,
+     "source_url": "https://baar.tlex.ch/api/de/texts_of_law/9.4-1",
+     "sha256": "b0d6fc17b1b8c60559c15458da32e07fa9e3e1ba63e45af96b05397392aa6b0b"
+    },
+    {
+     "from": "2027-01-01",
+     "units": 10,
+     "source_url": "https://baar.tlex.ch/api/de/texts_of_law/9.4-1/versions/534",
+     "sha256": "2b99ef2c74f85528a657ab440ee7a94f5e1dddb768be2a7f4951d3d2baefcd99"
+    }
+   ]
+  },
+  {
+   "slug": "9-5-1",
+   "short": "SRS 9.5-1",
+   "title": "Verordnung über die Freinächte und den Musikbetrieb",
+   "url": "https://baar.tlex.ch/app/de/texts_of_law/9.5-1",
+   "versions": [
+    {
+     "from": "1996-07-24",
+     "units": 2,
+     "source_url": "https://baar.tlex.ch/api/de/texts_of_law/9.5-1/versions/292",
+     "sha256": "d7be63aab427d88437e6c3169b682a969142873460ad887296e7764d2f5df12f"
+    },
+    {
+     "from": "2026-09-01",
+     "units": 3,
+     "source_url": "https://baar.tlex.ch/api/de/texts_of_law/9.5-1",
+     "sha256": "f34b4d6eacdce366d7bc2cf73ca42cbab123c0b287232fe0198ec416d5db1ded"
+    }
+   ]
   }
  ]
 }

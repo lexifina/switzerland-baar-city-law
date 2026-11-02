@@ -5,7 +5,7 @@
   "level": "municipality",
   "parent": "ch-zg",
   "repo": "https://github.com/lexifina/switzerland-baar-city-law",
-  "build": "built: Gemeindeordnung and municipal enactments (31 acts, 38 versions) from the SRS",
+  "build": "built: Gemeindeordnung and municipal enactments (40 acts, 50 versions) from the SRS",
   "language": "de",
   "sources": 1
 }
