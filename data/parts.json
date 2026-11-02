@@ -1,0 +1,60 @@
+{
+ "parts": {
+  "10-verfassung.json": {
+   "acts": [
+    "1-1-1"
+   ],
+   "sha256": "5c0aa19975d213ef588be4610207a1da9855c67ebc9aa2b8e99956eaa633a166"
+  },
+  "40-verordnungen-1.json": {
+   "acts": [
+    "1-2-1",
+    "1-6-1-1-subdelegationsverordnung",
+    "1-6-1-delegationsverordnung",
+    "1-6-2-1",
+    "1-6-2-entschadigungsreglement",
+    "1-7-1-1-personalverordnung",
+    "1-7-1-personalreglement",
+    "2-1-1",
+    "4-1-1",
+    "4-1-2",
+    "4-1-2-1",
+    "4-2-1-sdao",
+    "4-2-2",
+    "4-2-2-1",
+    "4-2-3-seb-verordnung",
+    "4-3-1-1",
+    "4-3-1-2",
+    "4-3-1-musikschulreglement",
+    "4-7-1",
+    "4-8-1",
+    "4-8-1-1",
+    "5-5-1-feuerwehrreglement",
+    "6-4-1",
+    "6-4-2",
+    "6-6-1",
+    "6-6-1-1",
+    "6-6-1-2",
+    "6-6-2",
+    "7-1-1",
+    "7-1-2"
+   ],
+   "sha256": "8c2f26a93d5b44d3539b4fc513f26794fcf7c4378ab6021c56dad4b2aab1f1fc"
+  },
+  "42-verordnungen-3.json": {
+   "acts": [
+    "7-4-3-1",
+    "7-6-1",
+    "7-6-2",
+    "7-7-1",
+    "8-2-1",
+    "8-2-1-1",
+    "8-3-1-hundereglement",
+    "9-4-1",
+    "9-5-1"
+   ],
+   "sha256": "8dd321bba6c66ca3817d5e37b8ed7685100e459ff78a40da191ec733c72568b1"
+  }
+ },
+ "schema": 1
+}
