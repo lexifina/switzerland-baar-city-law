@@ -1,0 +1,481 @@
+{
+ "country": "CH-ZG-BAAR",
+ "acts": [
+  {
+   "slug": "1-1-1",
+   "short": "SRS 1.1-1",
+   "title": "Gemeindeordnung",
+   "url": "https://baar.tlex.ch/app/de/texts_of_law/1.1-1",
+   "versions": [
+    {
+     "from": "2022-11-27",
+     "units": 26,
+     "source_url": "https://baar.tlex.ch/api/de/texts_of_law/1.1-1",
+     "sha256": "2199e41ccc3dc40ba1b3e14aedf52f303841fc819afc05816fd1518cbe971d80"
+    }
+   ]
+  },
+  {
+   "slug": "1-2-1",
+   "short": "SRS 1.2-1",
+   "title": "Verordnung für die Archivbenutzung",
+   "url": "https://baar.tlex.ch/app/de/texts_of_law/1.2-1",
+   "versions": [
+    {
+     "from": "2012-01-01",
+     "units": 11,
+     "source_url": "https://baar.tlex.ch/api/de/texts_of_law/1.2-1",
+     "sha256": "46c05a0f1b9fd0bdd187cab997e905c26cb8728ddaf675f6e56b0a5576e57088"
+    }
+   ]
+  },
+  {
+   "slug": "1-6-1-delegationsverordnung",
+   "short": "Delegationsverordnung",
+   "title": "Verordnung über die Delegation von Entscheidungsbefugnissen an einzelne Mitglieder des Gemeinderates",
+   "url": "https://baar.tlex.ch/app/de/texts_of_law/1.6-1",
+   "versions": [
+    {
+     "from": "2023-05-01",
+     "units": 47,
+     "source_url": "https://baar.tlex.ch/api/de/texts_of_law/1.6-1/versions/410",
+     "sha256": "241d293fe8ed5e91c2bb9237ba1b30d6ca8d442c059fdda5dcb6ce2d47ea1127"
+    },
+    {
+     "from": "2026-06-15",
+     "units": 52,
+     "source_url": "https://baar.tlex.ch/api/de/texts_of_law/1.6-1",
+     "sha256": "11e4f2b3c84d8e5693a0186ab1188421573d3b0b8e6140267a8562a9aed9f8ac"
+    }
+   ]
+  },
+  {
+   "slug": "1-6-1-1-subdelegationsverordnung",
+   "short": "Subdelegationsverordnung",
+   "title": "Verordnung über die Subdelegation von Entscheidungsbefugnissen der einzelnen Mitglieder des Gemeinderats (Abteilungsvorstand) an die ihnen unterstellte Abteilung",
+   "url": "https://baar.tlex.ch/app/de/texts_of_law/1.6-1.1",
+   "versions": [
+    {
+     "from": "2023-05-01",
+     "units": 9,
+     "source_url": "https://baar.tlex.ch/api/de/texts_of_law/1.6-1.1/versions/437",
+     "sha256": "6cd221e840db334affa0dc27a0d5e742f930166ad2ee44bb3b726a6921ed159b"
+    },
+    {
+     "from": "2026-06-15",
+     "units": 9,
+     "source_url": "https://baar.tlex.ch/api/de/texts_of_law/1.6-1.1",
+     "sha256": "77c55e74eadda9191bfb7918d5437216cf1088a476992b31ee1b2381a2bd4c3a"
+    }
+   ]
+  },
+  {
+   "slug": "1-6-2-entschadigungsreglement",
+   "short": "Entschädigungsreglement",
+   "title": "Reglement über die Entschädigung von Behördenmitgliedern",
+   "url": "https://baar.tlex.ch/app/de/texts_of_law/1.6-2",
+   "versions": [
+    {
+     "from": "2023-01-01",
+     "units": 8,
+     "source_url": "https://baar.tlex.ch/api/de/texts_of_law/1.6-2",
+     "sha256": "e6855694be70d94ca8e3528efac47d1d830a03b88c1d2559895dc8d88f9872f9"
+    }
+   ]
+  },
+  {
+   "slug": "1-6-2-1",
+   "short": "SRS 1.6-2.1",
+   "title": "Verordnung zum Entschädigungsreglement",
+   "url": "https://baar.tlex.ch/app/de/texts_of_law/1.6-2.1",
+   "versions": [
+    {
+     "from": "2023-01-01",
+     "units": 16,
+     "source_url": "https://baar.tlex.ch/api/de/texts_of_law/1.6-2.1",
+     "sha256": "409a3bd773c1e717a0e62e47ee9c0ee7d6e0eb7a69ff0d26597bf2c8caee9f58"
+    }
+   ]
+  },
+  {
+   "slug": "1-7-1-personalreglement",
+   "short": "Personalreglement",
+   "title": "Reglement über das Arbeitsverhältnis des Gemeindepersonals",
+   "url": "https://baar.tlex.ch/app/de/texts_of_law/1.7-1",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "units": 5,
+     "source_url": "https://baar.tlex.ch/api/de/texts_of_law/1.7-1",
+     "sha256": "c62702e0617a2453c124c5e9e0c2830a954dbaf14920667e6886c95f5a5a94d1"
+    }
+   ]
+  },
+  {
+   "slug": "1-7-1-1-personalverordnung",
+   "short": "Personalverordnung",
+   "title": "Verordnung zum Reglement über das Arbeitsverhältnis des Gemeindepersonals",
+   "url": "https://baar.tlex.ch/app/de/texts_of_law/1.7-1.1",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "units": 14,
+     "source_url": "https://baar.tlex.ch/api/de/texts_of_law/1.7-1.1/versions/468",
+     "sha256": "d278fc3f104798f97b3d9b7c6c99a95cf59a4407a43a307cbf245a518e419f0c"
+    },
+    {
+     "from": "2026-07-01",
+     "units": 15,
+     "source_url": "https://baar.tlex.ch/api/de/texts_of_law/1.7-1.1",
+     "sha256": "4037e62ca3719708ff432f4bc9bacc793ab995992b2aeafce95befb8c1a3a7a8"
+    }
+   ]
+  },
+  {
+   "slug": "2-1-1",
+   "short": "SRS 2.1-1",
+   "title": "Verordnung über die Gebühren im Beurkundungswesen",
+   "url": "https://baar.tlex.ch/app/de/texts_of_law/2.1-1",
+   "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 12,
+     "source_url": "https://baar.tlex.ch/api/de/texts_of_law/2.1-1",
+     "sha256": "ba90bccc1437f7f64238ffa3da28aef94e6d01a3343d623f6bec93b82af9b086"
+    }
+   ]
+  },
+  {
+   "slug": "4-1-1",
+   "short": "SRS 4.1-1",
+   "title": "Reglement über die familienergänzende Kinderbetreuung",
+   "url": "https://baar.tlex.ch/app/de/texts_of_law/4.1-1",
+   "versions": [
+    {
+     "from": "2016-01-01",
+     "units": 7,
+     "source_url": "https://baar.tlex.ch/api/de/texts_of_law/4.1-1",
+     "sha256": "74097a880f5dce7cbe320264f5417b7f2cd181a655f72663e53e847f31786a46"
+    }
+   ]
+  },
+  {
+   "slug": "4-1-2",
+   "short": "SRS 4.1-2",
+   "title": "Reglement über die Betreuungsgutscheine für Kitas",
+   "url": "https://baar.tlex.ch/app/de/texts_of_law/4.1-2",
+   "versions": [
+    {
+     "from": "2022-01-01",
+     "units": 13,
+     "source_url": "https://baar.tlex.ch/api/de/texts_of_law/4.1-2/versions/498",
+     "sha256": "74f59d4d69922b73f25546e65dcc7ec15798cb89927a920d62adc9fb216746b1"
+    },
+    {
+     "from": "2026-08-01",
+     "units": 13,
+     "source_url": "https://baar.tlex.ch/api/de/texts_of_law/4.1-2",
+     "sha256": "f881754646eae822295914d798fd6b3b6a72660467e4ef107312aff2e768bfa5"
+    }
+   ]
+  },
+  {
+   "slug": "4-1-2-1",
+   "short": "SRS 4.1-2.1",
+   "title": "Verordnung zum Reglement über die Betreuungsgutscheine für Kitas",
+   "url": "https://baar.tlex.ch/app/de/texts_of_law/4.1-2.1",
+   "versions": [
+    {
+     "from": "2022-01-01",
+     "units": 9,
+     "source_url": "https://baar.tlex.ch/api/de/texts_of_law/4.1-2.1/versions/500",
+     "sha256": "42e034e8c51e0c3310429a76280aa7cf800aee027afad5e14cee0f26cd7070c9"
+    },
+    {
+     "from": "2026-08-01",
+     "units": 10,
+     "source_url": "https://baar.tlex.ch/api/de/texts_of_law/4.1-2.1",
+     "sha256": "47491932b98513259812a25f6247a6b787fac72642efecfaadbf94d45139c8b8"
+    }
+   ]
+  },
+  {
+   "slug": "4-2-1-sdao",
+   "short": "SDAO",
+   "title": "Schul-, Disziplinar- und Absenzenordnung der Schulen Baar",
+   "url": "https://baar.tlex.ch/app/de/texts_of_law/4.2-1",
+   "versions": [
+    {
+     "from": "2020-01-01",
+     "units": 37,
+     "source_url": "https://baar.tlex.ch/api/de/texts_of_law/4.2-1/versions/339",
+     "sha256": "01b87940f5a484967e23ab21d9246368b6fe6a8975d2ea4238233dec3b624567"
+    },
+    {
+     "from": "2026-08-01",
+     "units": 59,
+     "source_url": "https://baar.tlex.ch/api/de/texts_of_law/4.2-1",
+     "sha256": "8379b4413d38e2089f5ae3f8829b6158ec2e20d6edebf7794ef8ed1e7bb02506"
+    }
+   ]
+  },
+  {
+   "slug": "4-2-2",
+   "short": "SRS 4.2-2",
+   "title": "Reglement über den Schulzahnarzt-Dienst",
+   "url": "https://baar.tlex.ch/app/de/texts_of_law/4.2-2",
+   "versions": [
+    {
+     "from": "2022-08-01",
+     "units": 10,
+     "source_url": "https://baar.tlex.ch/api/de/texts_of_law/4.2-2",
+     "sha256": "a87cde5e01285ccad33cfbaaf2a261be25e39411fd45cdfc8dd506faeec12394"
+    }
+   ]
+  },
+  {
+   "slug": "4-2-2-1",
+   "short": "SRS 4.2-2.1",
+   "title": "Verordnung zum Reglement über den Schulzahnarzt-Dienst",
+   "url": "https://baar.tlex.ch/app/de/texts_of_law/4.2-2.1",
+   "versions": [
+    {
+     "from": "2022-08-01",
+     "units": 5,
+     "source_url": "https://baar.tlex.ch/api/de/texts_of_law/4.2-2.1",
+     "sha256": "bc4b35df83b9f2edbd97f32f8d2fbccdd4ee09f692cbfea4c1efaeb9e89dc599"
+    }
+   ]
+  },
+  {
+   "slug": "4-2-3-seb-verordnung",
+   "short": "SEB-Verordnung",
+   "title": "Verordnung zur schulergänzenden Betreuung der Schulen Baar",
+   "url": "https://baar.tlex.ch/app/de/texts_of_law/4.2-3",
+   "versions": [
+    {
+     "from": "2026-08-01",
+     "units": 9,
+     "source_url": "https://baar.tlex.ch/api/de/texts_of_law/4.2-3",
+     "sha256": "3614ce73a8b474c1cf16100c9dd31b5d87d0ee1c05e6e4e942e5720e81507837"
+    }
+   ]
+  },
+  {
+   "slug": "4-3-1-musikschulreglement",
+   "short": "Musikschulreglement",
+   "title": "Reglement über die Musikschule",
+   "url": "https://baar.tlex.ch/app/de/texts_of_law/4.3-1",
+   "versions": [
+    {
+     "from": "2012-08-01",
+     "units": 13,
+     "source_url": "https://baar.tlex.ch/api/de/texts_of_law/4.3-1",
+     "sha256": "a84664a036dedbf6ef823724a986c26f035672167d2fc30646bf2f2c9be0413d"
+    }
+   ]
+  },
+  {
+   "slug": "4-3-1-1",
+   "short": "SRS 4.3-1.1",
+   "title": "Verordnung zum Musikschulreglement",
+   "url": "https://baar.tlex.ch/app/de/texts_of_law/4.3-1.1",
+   "versions": [
+    {
+     "from": "2012-08-01",
+     "units": 11,
+     "source_url": "https://baar.tlex.ch/api/de/texts_of_law/4.3-1.1",
+     "sha256": "d234e0ddc31a065a81ad625bd6104c1682ce0e2a5519ecac93c66540d58e1ac9"
+    }
+   ]
+  },
+  {
+   "slug": "4-3-1-2",
+   "short": "SRS 4.3-1.2",
+   "title": "Verordnung über das Schulgeld und die Instrumentenmiete",
+   "url": "https://baar.tlex.ch/app/de/texts_of_law/4.3-1.2",
+   "versions": [
+    {
+     "from": "2022-02-01",
+     "units": 6,
+     "source_url": "https://baar.tlex.ch/api/de/texts_of_law/4.3-1.2/versions/539",
+     "sha256": "0ad4381a687d2939bb34f355388e1497523b3a27377209da863866168182aa6e"
+    },
+    {
+     "from": "2026-08-01",
+     "units": 6,
+     "source_url": "https://baar.tlex.ch/api/de/texts_of_law/4.3-1.2",
+     "sha256": "940e5ab630e0373ca6b34bff416b414471103b4d172aa8d934cdf2ee0d47337e"
+    }
+   ]
+  },
+  {
+   "slug": "4-7-1",
+   "short": "SRS 4.7-1",
+   "title": "Verordnung über die Vereinsförderung im Kulturbereich",
+   "url": "https://baar.tlex.ch/app/de/texts_of_law/4.7-1",
+   "versions": [
+    {
+     "from": "2007-01-01",
+     "units": 10,
+     "source_url": "https://baar.tlex.ch/api/de/texts_of_law/4.7-1",
+     "sha256": "6b73be4041bbad72e189c575bfdb090a24d494be6c532ac29a0d81f710446580"
+    }
+   ]
+  },
+  {
+   "slug": "4-8-1",
+   "short": "SRS 4.8-1",
+   "title": "Reglement über die Vereinsförderung",
+   "url": "https://baar.tlex.ch/app/de/texts_of_law/4.8-1",
+   "versions": [
+    {
+     "from": "2007-01-01",
+     "units": 8,
+     "source_url": "https://baar.tlex.ch/api/de/texts_of_law/4.8-1",
+     "sha256": "07ac6b8edc263eed49745c7e470dc96d6455b95d5907eba4a1b489febb4e09c4"
+    }
+   ]
+  },
+  {
+   "slug": "4-8-1-1",
+   "short": "SRS 4.8-1.1",
+   "title": "Verordnung für die Jugendförderung in Sportvereinen",
+   "url": "https://baar.tlex.ch/app/de/texts_of_law/4.8-1.1",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 12,
+     "source_url": "https://baar.tlex.ch/api/de/texts_of_law/4.8-1.1",
+     "sha256": "ba094e67a1cbc9b5de0502de320675c111dbed49d782690643183a7e1c70b81f"
+    }
+   ]
+  },
+  {
+   "slug": "5-5-1-feuerwehrreglement",
+   "short": "Feuerwehrreglement",
+   "title": "Reglement der Feuerwehr",
+   "url": "https://baar.tlex.ch/app/de/texts_of_law/5.5-1",
+   "versions": [
+    {
+     "from": "2021-01-01",
+     "units": 13,
+     "source_url": "https://baar.tlex.ch/api/de/texts_of_law/5.5-1",
+     "sha256": "48946093fb2254534711d65ca1cb08965fc1de52987e92e01c08864db4509fbc"
+    }
+   ]
+  },
+  {
+   "slug": "6-4-1",
+   "short": "SRS 6.4-1",
+   "title": "Gebühren Gemeindebüro (Kant. Verwaltungsgebührentarif)",
+   "url": "https://baar.tlex.ch/app/de/texts_of_law/6.4-1",
+   "versions": [
+    {
+     "from": "2021-01-01",
+     "units": 2,
+     "source_url": "https://baar.tlex.ch/api/de/texts_of_law/6.4-1",
+     "sha256": "6261ae93d90ef591fe27053d6c9d19797378d3bed33f04980bc84932d682cb6c"
+    }
+   ]
+  },
+  {
+   "slug": "6-4-2",
+   "short": "SRS 6.4-2",
+   "title": "Verordnung über die Gebühren für das Mietmaterial des Werkdiensts",
+   "url": "https://baar.tlex.ch/app/de/texts_of_law/6.4-2",
+   "versions": [
+    {
+     "from": "2026-04-01",
+     "units": 4,
+     "source_url": "https://baar.tlex.ch/api/de/texts_of_law/6.4-2",
+     "sha256": "1119a04e560fe421af826d0b7d439a27b222f6be12abb3cdf20e2408050989ae"
+    }
+   ]
+  },
+  {
+   "slug": "6-6-1",
+   "short": "SRS 6.6-1",
+   "title": "Verordnung zur Nutzung öffentlicher Räume und Plätze",
+   "url": "https://baar.tlex.ch/app/de/texts_of_law/6.6-1",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 35,
+     "source_url": "https://baar.tlex.ch/api/de/texts_of_law/6.6-1",
+     "sha256": "810660925e023dfa8a77cca3cb5d455f4f10b201aba25249c356c88aa181adc2"
+    }
+   ]
+  },
+  {
+   "slug": "6-6-1-1",
+   "short": "SRS 6.6-1.1",
+   "title": "Verordnung über die Spielplätze",
+   "url": "https://baar.tlex.ch/app/de/texts_of_law/6.6-1.1",
+   "versions": [
+    {
+     "from": "2026-02-01",
+     "units": 8,
+     "source_url": "https://baar.tlex.ch/api/de/texts_of_law/6.6-1.1",
+     "sha256": "244ff1793ea0e61380d09cd7b10e9a88ed259b8c58ab62957a39bc0e5b049f0a"
+    }
+   ]
+  },
+  {
+   "slug": "6-6-1-2",
+   "short": "SRS 6.6-1.2",
+   "title": "Verordnung über die Benutzung von öffentlichen Anlagen und Plätzen der Einwohnergemeinde Baar",
+   "url": "https://baar.tlex.ch/app/de/texts_of_law/6.6-1.2",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 7,
+     "source_url": "https://baar.tlex.ch/api/de/texts_of_law/6.6-1.2",
+     "sha256": "85fbd736a7762d722790a48a039e7979bbe785e24070fea8048a56e7acab613b"
+    }
+   ]
+  },
+  {
+   "slug": "6-6-2",
+   "short": "SRS 6.6-2",
+   "title": "Verordnung über die Gebühren bei der Miete von Liegenschaften der Gemeinde",
+   "url": "https://baar.tlex.ch/app/de/texts_of_law/6.6-2",
+   "versions": [
+    {
+     "from": "2025-12-19",
+     "units": 33,
+     "source_url": "https://baar.tlex.ch/api/de/texts_of_law/6.6-2",
+     "sha256": "57c2e5485914e3b5e369d58d3e55429ba806ffe0646d07368357507eb8bdf6d9"
+    }
+   ]
+  },
+  {
+   "slug": "7-1-1",
+   "short": "SRS 7.1-1",
+   "title": "Bauordnung",
+   "url": "https://baar.tlex.ch/app/de/texts_of_law/7.1-1",
+   "versions": [
+    {
+     "from": "2025-03-27",
+     "units": 63,
+     "source_url": "https://baar.tlex.ch/api/de/texts_of_law/7.1-1",
+     "sha256": "67333443b23858260a500d3eb9ed86af628fe575dedfa4ae61633fd9ba8ec6ba"
+    }
+   ]
+  },
+  {
+   "slug": "7-1-2",
+   "short": "SRS 7.1-2",
+   "title": "Gebührenordnung im Bauwesen",
+   "url": "https://baar.tlex.ch/app/de/texts_of_law/7.1-2",
+   "versions": [
+    {
+     "from": "2021-12-09",
+     "units": 24,
+     "source_url": "https://baar.tlex.ch/api/de/texts_of_law/7.1-2",
+     "sha256": "a177771fd6de28f7abdc2bc9e7e03c40c55238640a9bda79b0edfca1e62880c2"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,11 @@
+{
+  "path": "ch-zg-baar",
+  "code": "CH-ZG-BAAR",
+  "name": "Baar (city)",
+  "level": "municipality",
+  "parent": "ch-zg",
+  "repo": "https://github.com/lexifina/switzerland-baar-city-law",
+  "build": "built: Gemeindeordnung and municipal enactments (31 acts, 38 versions) from the SRS",
+  "language": "de",
+  "sources": 1
+}
