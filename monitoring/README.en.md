@@ -6,18 +6,19 @@
 
 How global-law monitors every country: [global-law monitoring/](https://github.com/lexifina/global-law/tree/main/monitoring). This page is the same for Baar only: every time an official source is read, when, and what came of it (acts added, changed and removed). The machine-readable form is [data/checks/](../data/checks/) (JSON Lines, schema `lexifina-check/1`), in `git log` as `Kind: check` commits, and month by month in [checks/](checks/).
 
-**Last check:** 2026-11-24 12:44 UTC, Baar: systematic collection (baar.tlex.ch): 74 addresses read; 60 added, 0 changed, 0 removed; changes found; 60 not published, 0 of them with no reason.
+**Last check:** 2026-11-25 08:19 UTC, Baar: systematic collection (baar.tlex.ch): 18 addresses read; 0 added, 0 changed, 0 removed; no change; 60 not published, 0 of them with no reason.
 
 ## Sources
 
 | Source | Folders | How often | Last successful check | Last result | State |
 | --- | --- | --- | --- | --- | --- |
-| [Baar: systematic collection (baar.tlex.ch)](https://baar.tlex.ch/) | `<act>/` | daily | 2026-11-24 12:44 UTC | changes found | watched |
+| [Baar: systematic collection (baar.tlex.ch)](https://baar.tlex.ch/) | `<act>/` | daily | 2026-11-25 08:19 UTC | no change | watched |
 
 ## The last 30 days
 
 | Started (UTC) | Source | Read | Added | Changed | Removed | Not published (no reason) | Result | Commits |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | --- | ---: |
+| [2026-11-25 08:19](checks/2026-11.md#ch-lexwork-baar-city-20261125t081937z) | lexwork-baar-city | 18 | 0 | 0 | 0 | 60 (0) | no change | — |
 | [2026-11-24 12:42](checks/2026-11.md#ch-lexwork-baar-city-20261124t124255z) | lexwork-baar-city | 74 | 60 | 0 | 0 | 60 (0) | changes found | — |
 
 ## Check it yourself

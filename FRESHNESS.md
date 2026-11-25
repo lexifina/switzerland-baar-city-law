@@ -8,8 +8,8 @@ Wie global-law misst, wie aktuell jedes Land ist: [global-law FRESHNESS.md](http
 
 ### Baar: Systematische Sammlung (baar.tlex.ch) · `switzerland/zug/baar/acts`
 
-- Die amtliche Quelle zuletzt gelesen und jede Vorschrift hier mit ihr abgeglichen: **2026-11-24 12:44 UTC**.
-- Vorschriften hier: 40; aktuell gegenüber der Quelle: 40; an der Quelle geändert seit der Fassung hier: 60; nicht mehr an der Quelle: 0.
+- Die amtliche Quelle zuletzt gelesen und jede Vorschrift hier mit ihr abgeglichen: **2026-11-25 08:19 UTC**.
+- Vorschriften hier: 40; aktuell gegenüber der Quelle: 40; an der Quelle geändert seit der Fassung hier: 0; nicht mehr an der Quelle: 0.
 - In diesem Lesen mit der Quelle verglichen: 6 der 40 Vorschriften hier; die übrigen wurden in diesem Lesen nicht verglichen (siehe die Anmerkung der Prüfung).
 - Nicht veröffentlicht: 60 (hier vorhanden, an der Quelle nicht mehr: 60); ohne Grund: 0.
 
