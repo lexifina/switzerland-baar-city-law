@@ -8,6 +8,6 @@ How global-law watches every country's sources: [global-law WATCHING.md](https:/
 
 | Source | What is read | Folders | How often | Last read | State |
 | --- | --- | --- | --- | --- | --- |
-| [Baar: systematic collection (baar.tlex.ch)](https://baar.tlex.ch/) | the collection's index of acts in force each check, the act document (every consolidated version, its change table) of new acts and of a seventh of the held acts, version documents once | `<act>/` | daily | 2026-11-25 08:19 UTC | watched |
+| [Baar: systematic collection (baar.tlex.ch)](https://baar.tlex.ch/) | the collection's index of acts in force each check, the act document (every consolidated version, its change table) of new acts and of a seventh of the held acts, version documents once | `<act>/` | daily | 2026-11-26 07:11 UTC | watched |
 
 Sources are read within their robots.txt and terms, with pauses between requests.
