@@ -6,18 +6,19 @@
 
 Wie global-law jedes Land beobachtet: [global-law monitoring/](https://github.com/lexifina/global-law/tree/main/monitoring). Diese Seite zeigt dasselbe nur für Baar: jedes Lesen einer amtlichen Quelle, wann, und was daraus folgte (Vorschriften hinzugefügt, geändert und entfernt). Maschinenlesbar in [data/checks/](../data/checks/) (JSON Lines, Schema `lexifina-check/1`), in `git log` als Commits mit `Kind: check` und Monat für Monat in [checks/](checks/).
 
-**Letzte Prüfung:** 2026-11-26 07:11 UTC, Baar: Systematische Sammlung (baar.tlex.ch): 15 Adressen gelesen; 0 hinzugefügt, 0 geändert, 0 entfernt; keine Änderung; 60 nicht veröffentlicht, davon 0 ohne Grund.
+**Letzte Prüfung:** 2026-11-27 07:06 UTC, Baar: Systematische Sammlung (baar.tlex.ch): 15 Adressen gelesen; 0 hinzugefügt, 0 geändert, 0 entfernt; keine Änderung; 60 nicht veröffentlicht, davon 0 ohne Grund.
 
 ## Quellen
 
 | Quelle | Ordner | Wie oft | Letzte erfolgreiche Prüfung | Letztes Ergebnis | Stand |
 | --- | --- | --- | --- | --- | --- |
-| [Baar: Systematische Sammlung (baar.tlex.ch)](https://baar.tlex.ch/) | `<act>/` | täglich | 2026-11-26 07:11 UTC | keine Änderung | beobachtet |
+| [Baar: Systematische Sammlung (baar.tlex.ch)](https://baar.tlex.ch/) | `<act>/` | täglich | 2026-11-27 07:06 UTC | keine Änderung | beobachtet |
 
 ## Die letzten 30 Tage
 
 | Beginn (UTC) | Quelle | Gelesen | Hinzugefügt | Geändert | Entfernt | Nicht veröffentlicht (ohne Grund) | Ergebnis | Commits |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | --- | ---: |
+| [2026-11-27 07:05](checks/2026-11.md#ch-lexwork-baar-city-20261127t070548z) | lexwork-baar-city | 15 | 0 | 0 | 0 | 60 (0) | keine Änderung | — |
 | [2026-11-26 07:11](checks/2026-11.md#ch-lexwork-baar-city-20261126t071135z) | lexwork-baar-city | 15 | 0 | 0 | 0 | 60 (0) | keine Änderung | — |
 | [2026-11-25 08:19](checks/2026-11.md#ch-lexwork-baar-city-20261125t081937z) | lexwork-baar-city | 18 | 0 | 0 | 0 | 60 (0) | keine Änderung | — |
 | [2026-11-24 12:42](checks/2026-11.md#ch-lexwork-baar-city-20261124t124255z) | lexwork-baar-city | 74 | 60 | 0 | 0 | 60 (0) | Änderungen gefunden | — |
