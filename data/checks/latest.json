@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-27T07:11:42Z",
+ "generated": "2026-11-28T08:34:05Z",
  "latest": {
   "lexwork-baar-city|switzerland/zug/baar/acts": {
-   "attempt": 1,
+   "attempt": 3,
    "audit": {
     "examples": [],
     "match_neither": 0,
@@ -23,11 +23,11 @@
     "repo": 40,
     "source_in_scope": 40
    },
-   "check_id": "ch-lexwork-baar-city-20261127T070548Z",
+   "check_id": "ch-lexwork-baar-city-20261128T082820Z",
    "commits": null,
    "corpus": "switzerland/zug/baar/acts",
    "error": null,
-   "finished": "2026-11-27T07:06:06Z",
+   "finished": "2026-11-28T08:28:48Z",
    "flags": [],
    "gap": 60,
    "note": "baar.tlex.ch: index of 160 acts (160 in force); held 40; 0 in force and in scope not held yet, 60 out of scope (land-use plans, concessions, directives, forms: as the builder), 60 published only as PDF; 6 held acts compared with the collection this check (every one within 7 days); 0 candidate acts read",
@@ -37,7 +37,7 @@
     "changed": [],
     "removed": []
    },
-   "requests": 15,
+   "requests": 25,
    "runner": "lawwatch switzerland (08a05acd17)",
    "schema": "lexifina-check/1",
    "seen": {
@@ -47,7 +47,7 @@
    },
    "snapshot": "160 entries, 160 in force (baar.tlex.ch)",
    "source": "lexwork-baar-city",
-   "started": "2026-11-27T07:05:48Z",
+   "started": "2026-11-28T08:28:20Z",
    "unexplained": 0,
    "update": {
     "left_for_next_check": 0,
@@ -68,7 +68,7 @@
     "not_compared_why": null,
     "ok": true,
     "swept": 6,
-    "versions_checked": 7,
+    "versions_checked": 6,
     "versions_differ": 0
    }
   }
